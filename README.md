@@ -25,7 +25,7 @@
 <div align="center">
   
 ![YouTube Downloader Pro](https://github.com/3bHussein/YouTube-Downloader-Pro-/blob/main/YouTube-Downloader-Pro.png)
-https://github.com/3bHussein/YouTube-Downloader-Pro-/blob/main/YouTube-Downloader-Pro.png
+ 
 *Modern dark theme with real-time progress and scrollable interface*
 
 </div>
