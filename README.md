@@ -24,8 +24,8 @@
 
 <div align="center">
   
-![YouTube Downloader Pro](https://via.placeholder.com/800x600/1a1a1a/ff0000?text=YouTube+Downloader+Pro+v2.0)
-
+![YouTube Downloader Pro](https://github.com/3bHussein/YouTube-Downloader-Pro-/blob/main/YouTube-Downloader-Pro.png)
+https://github.com/3bHussein/YouTube-Downloader-Pro-/blob/main/YouTube-Downloader-Pro.png
 *Modern dark theme with real-time progress and scrollable interface*
 
 </div>
@@ -64,7 +64,6 @@
 **Download the latest release:**
 - [YouTubeDownloaderPro.exe](https://github.com/3Bhussein/YouTube-Downloader-Pro-/releases/latest)
 
-https://github.com/3bHussein/YouTube-Downloader-Pro-/releases/tag/youtube_downloader
 
 **System Requirements:**
 - Windows 10 or later
