@@ -62,8 +62,9 @@
 ### Option 1: Pre-built EXE (Recommended for most users)
 
 **Download the latest release:**
-- [YouTubeDownloaderPro.exe](https://github.com/3Bhussein/YouTube-Downloader-Pro/releases/latest)
+- [YouTubeDownloaderPro.exe](https://github.com/3Bhussein/YouTube-Downloader-Pro-/releases/latest)
 
+https://github.com/3bHussein/YouTube-Downloader-Pro-/releases/tag/youtube_downloader
 
 **System Requirements:**
 - Windows 10 or later
